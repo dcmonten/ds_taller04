@@ -1,6 +1,6 @@
 
 public class HelloAspectJDemo {
-	public static void sayHello() {
+	  public static void sayHello() {
 	      System.out.println("Hello");
 	  }	 
 	  public static void greeting()  {	      
